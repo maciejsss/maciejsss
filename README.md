@@ -11,11 +11,11 @@
  
 ## Certification
 
-<img width="150" height="150" alt="image" src="https://images.credly.com/images/d1024c79-59ff-41df-99ea-0503762e9b3b/image.png" />
-<img width="150" height="150" alt="image" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" />
-<img width="150" height="150" alt="image" src="https://images.credly.com/size/340x340/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" />
-<img width="150" height="150" alt="image" src="https://datakuity.com/wp-content/uploads/2025/05/image.png"/>
-<img width="115" height="150" alt="image" src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691"/>
+<img width="120" height="120" alt="image" src="https://images.credly.com/images/d1024c79-59ff-41df-99ea-0503762e9b3b/image.png" />
+<img width="120" height="120" alt="image" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" />
+<img width="120" height="120" alt="image" src="https://images.credly.com/size/340x340/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" />
+<img width="120" height="120" alt="image" src="https://datakuity.com/wp-content/uploads/2025/05/image.png"/>
+<img width="95" height="120" alt="image" src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691"/>
 
 
 ## Projects
