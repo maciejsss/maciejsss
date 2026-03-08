@@ -8,6 +8,7 @@
   
   **Power BI | SQL | Azure | Fabric | Databricks**
 
+<br>
  
 ## Certification
 
@@ -17,7 +18,8 @@
 <img width="120" height="120" alt="image" src="https://datakuity.com/wp-content/uploads/2025/05/image.png"/>
 <img width="95" height="120" alt="image" src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691"/>
 
-
+<br>
+ 
 ## Projects
 
 **Power BI** <img width="25" height="25" alt="image" src="https://community.fabric.microsoft.com/html/assets/48px_PowerBI.svg" /><br>
@@ -27,9 +29,8 @@
 
 **Databricks** <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5939d40c-9dad-43ed-a947-d9bd96e1fde4" /><br>
 
-
-
-
+<br>
+ 
 📫 **Contact**: [LinkedIn](https://linkedin.com/in/maciej-swiatek) | [mswiatek0@gmail.com](mailto:mswiatek0@gmail.com)
 
 
