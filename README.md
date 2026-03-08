@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**maciejsss/maciejsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  # Maciej Świątek
+  
+  **BI Developer | Data Enginner** 
 
-Here are some ideas to get you started:
+  
+  **Power BI | SQL | Azure Data Factory | Fabric | Databricks**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img width="50" height="50" alt="image" src="https://community.fabric.microsoft.com/html/assets/48px_PowerBI.svg" />
+<img width="50" height="50" alt="image" src="https://community.fabric.microsoft.com/html/assets/fabric-expo-icon.svg" />
+  
+ 
+## Certification
+
+
+  
+
+
+
+## Projects
+
+
+
+
+📫 **Contact**: [LinkedIn](https://linkedin.com/in/maciej-swiatek) | [mswiatek0@gmail.com](mailto:mswiatek0@gmail.com)
+
+
+</div>
+
+
